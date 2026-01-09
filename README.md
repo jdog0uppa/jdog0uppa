@@ -4,7 +4,7 @@
 
 - 📫 How to reach me you can contact me on Billythebull2025@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love animals and my gf
+- ⚡ Fun fact: I love animals and my gf and im learning c++
 
 <!---
 jdog0uppa/jdog0uppa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
